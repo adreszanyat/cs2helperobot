@@ -25,7 +25,7 @@ Telegram-бот для помощи игрокам в Counter-Strike 2: раск
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/adreszanyat/cs2helperbot.git
+git clone https://github.com/adreszanyat/cs2helperobot.git
 cd cs2-helper-bot
 ```
 
