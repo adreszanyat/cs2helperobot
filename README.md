@@ -150,7 +150,7 @@ cs2-helper-bot/
 ```/search <запрос>``` – быстрый поиск (можно просто написать запрос в inline-режиме: @cs2helperobot смок мираж)
 
 ### 💬 Поддержка
-Если у вас возникли вопросы или предложения, создайте [issue](https://github.com/adreszanyat/cs2helperbot/issues) или напишите разработчику в Telegram: [@techsupportuser](https://t.me/techsupportuser)
+Если у вас возникли вопросы или предложения, создайте [issue](https://github.com/adreszanyat/cs2helperobot/issues/new) или напишите разработчику в Telegram: [@techsupportuser](https://t.me/techsupportuser)
 
 
 ---
